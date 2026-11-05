@@ -1,0 +1,9 @@
+Testing – Teste Unitário
+
+Teste unitário é uma técnica de programação utilizada para verificar se pequenas partes de um código, como funções e métodos, estão funcionando corretamente.
+
+Objetivo: encontrar erros, garantir a qualidade do código e evitar problemas durante o desenvolvimento de software.
+
+Exemplos de ferramentas: Jest, Vitest, JUnit e Pytest.
+
+Fonte: Inteligência Artificial - chatgpt 
