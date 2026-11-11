@@ -1,0 +1,9 @@
+Testing – Teste de Integração (Integration Testing)
+
+É um tipo de teste de software que verifica se diferentes módulos ou partes de um sistema funcionam corretamente quando estão conectados.
+
+Exemplo: verificar se os produtos adicionados ao carrinho são enviados corretamente para a etapa de pagamento.
+
+Objetivo: identificar erros na comunicação e na troca de informações entre diferentes partes do sistema.
+
+Fonte: Inteligência Artificial - chatgpt 
