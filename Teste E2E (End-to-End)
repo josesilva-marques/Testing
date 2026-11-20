@@ -1,0 +1,9 @@
+Testing – Teste E2E (End-to-End)
+
+Teste E2E significa teste de ponta a ponta. É utilizado para verificar se um sistema funciona corretamente do início ao fim, simulando as ações de um usuário real.
+
+Exemplo: em uma loja virtual, testar o processo completo de login, escolha do produto, carrinho e finalização da compra.
+
+Objetivo: garantir que todas as partes do sistema funcionem corretamente durante a utilização.
+
+Fonte: Inteligência artificial - chatgpt 
