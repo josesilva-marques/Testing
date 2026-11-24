@@ -1,0 +1,11 @@
+Mutation Testing (Teste de Mutação)
+
+É uma técnica de teste de software que modifica propositalmente pequenas partes do código para verificar se os testes automatizados conseguem detectar essas alterações.
+
+- Mutante morto (Killed): o teste detectou a mudança.
+- Mutante sobrevivente (Survived): o teste não detectou a mudança.
+- Objetivo: avaliar a qualidade e a eficácia dos testes automatizados.
+
+O Teste de Mutação ajuda a identificar testes fracos e aumentar a confiabilidade do software.
+
+Fonte: Chatgpt Inteligência Artificial 
